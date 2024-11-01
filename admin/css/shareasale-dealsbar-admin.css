@@ -1,0 +1,26 @@
+#shareasale-dealsbar {
+    width:  100%;
+}
+#shareasale-logo{
+    vertical-align: middle;
+}
+.dealsbar-example-img {
+    border: 1px solid #C9C7C7;
+    float: left;
+}
+#dealsbar-toolbar-warning{
+    background-color: #F00;
+    border: 1px solid #F00;
+    color: #FFF;
+    font-size: 10px;
+    margin: 0 6px 0 6px;
+    padding: 0 6px 0 6px;
+    position: absolute;
+    top: 25%;
+}
+#toolbar-merchants{
+    min-height: 150px;
+}
+.dealsbar-option-hidden{
+    display: none;
+}
